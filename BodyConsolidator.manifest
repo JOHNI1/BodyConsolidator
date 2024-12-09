@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"CHATGPT",
+	"description":	{
+		"":	"COPIES ALL BODIES FROM EVERY COMPONENT INTO A NEW SINGLE \"CONSOLIDATED_BODIES\" COMPONENT"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
